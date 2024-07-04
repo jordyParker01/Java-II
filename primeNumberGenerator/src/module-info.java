@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module primeNumberGenerator {
+	requires common;
+}
